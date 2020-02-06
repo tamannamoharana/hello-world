@@ -1,2 +1,4 @@
 # hello-world
-Github 1st Class
+Data Management Class
+
+Excited to learn about GitHub
